@@ -1,0 +1,17 @@
+Exit:
+
+	Program exit
+	System.exit(0)
+
+Icon:
+	@Override
+	public Image getIconImage() {
+		Image retValue = Toolkit.getDefaultToolkit().getImage(ClassLoader.getSystemResource(patch));
+		return retValue;
+	} 
+	
+Center of Screen in Netbeans
+	1. Select jframe
+	2. Right button properties 
+	3. Select Code
+	4. Select generate center

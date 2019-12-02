@@ -1,0 +1,14 @@
+Get:
+	Extr value Field
+	jTextField.getText(); 
+
+	Extr value ComboBox
+	jComboBox.getSelectedItem().toString();
+
+	Select:
+
+		Compr select group Radio
+		if (jRadioButton.isSelected()){}
+
+		Slider value
+		jSlider1.getValue()

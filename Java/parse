@@ -1,0 +1,4 @@
+Parse:
+    String a Int
+    Integer.parseInt(numCadena)
+    

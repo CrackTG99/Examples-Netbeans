@@ -1,0 +1,6 @@
+Set:
+	Area text
+	jTextArea.setText(result);
+
+	Select panel
+	jTabbedPane1.setSelectedIndex(0);

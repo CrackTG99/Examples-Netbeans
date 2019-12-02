@@ -1,0 +1,13 @@
+variables:
+	int
+	short
+	byte
+	long
+	boolean
+	char
+	float	
+	double 
+	String
+	+1 --> ++
+	-1 --> --
+
